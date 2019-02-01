@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/aleksandrsenin/Library/Autosave Information/VKAnim/VKAnim/12345.jpg">
+   </FileRef>
+   <FileRef
       location = "self:VKAnim.xcodeproj">
    </FileRef>
 </Workspace>
